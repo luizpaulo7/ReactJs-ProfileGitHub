@@ -1,0 +1,10 @@
+.repo {
+  font-family: sans-serif;
+  text-align: center;
+}
+.repo ul {
+  list-style: none;
+}
+.repo img {
+  height: 200px;
+}
